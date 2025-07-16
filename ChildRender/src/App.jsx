@@ -1,9 +1,10 @@
-import Parent from "./component/parent";
+// import Parent from "./component/parent";
+import Trottle from "./Trotelling/Trotelle";
 
 function App() {
   return (
     <>
-      <Parent />
+      <Trottle />
     </>
   );
 }
